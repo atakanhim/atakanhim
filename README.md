@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atakan Him</h1>
 <h3 align="center">I am a Software Engineer !!</h3>
-### I'm a Software Engineer !!
 
 - 🎓 I started this business in my high school life ,
 - ✍️ I code with love and pleasure ,
